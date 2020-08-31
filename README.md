@@ -38,7 +38,7 @@
 
 启动：Python main.py 
 
-样本在设置在 logo_recognition.LogoRec().test_xfeatures2d(key, "baidu.png")
+样本设置在 logo_recognition.LogoRec().test_xfeatures2d(key, "baidu.png")
 
 目标站点设置在 dynamic_crawler.RequestsHttp(url="https://www.baidu.com/").requests_get()
 
