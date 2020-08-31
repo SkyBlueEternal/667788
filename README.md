@@ -1,4 +1,5 @@
-[![License](GNU General Public License v3.0)](https://github.com/SkyBlueEternal/667788/blob/master/LICENSE)
+![License](GNU General Public License v3.0):(https://github.com/SkyBlueEternal/667788/blob/master/LICENSE)
+
 # 667788项目 动态爬虫+logo识别
 
 
