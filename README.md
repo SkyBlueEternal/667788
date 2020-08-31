@@ -9,7 +9,7 @@
    使用seleniumrequests和OpenCV开发的引擎，调用方法在Main.py之中。
 
 
-# 目录结构：
+# 目录结构
 
 - 667788</br>
   baidu.png</br>
