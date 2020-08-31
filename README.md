@@ -42,7 +42,7 @@
 
 ## 样本
 
-![img](baidu.png)
+![img](.\baidu.png)
 
 ## 识别情况
 
