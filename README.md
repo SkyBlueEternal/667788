@@ -42,8 +42,9 @@
 
 ## 样本
 
-![img](.\baidu.png)
+![img](https://github.com/SkyBlueEternal/667788/blob/master/baidu.png)
 
 ## 识别情况
 
+![img](https://github.com/SkyBlueEternal/667788/blob/master/-1950992685154535579.png)
 
