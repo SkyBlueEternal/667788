@@ -15,14 +15,14 @@
          chromedriver
     - chromedriver_win32
          chromedriver.exe
-  - py_lib
-      dynamic_crawler.py
-      env_settings.py
-      logo_recognition.py
-      random_str.py
-  baidu.png
-  zhongshiyou.png
-  main.py
+  - py_lib</br>
+      dynamic_crawler.py</br>
+      env_settings.py</br>
+      logo_recognition.py</br>
+      random_str.py</br>
+  baidu.png</br>
+  zhongshiyou.png</br>
+  main.py</br>
 
 # 环境搭建
 
