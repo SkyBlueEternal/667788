@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/static/v1?label=<LABEL>&message=GNU General Public License v3.0&color=red)](https://www.apache.org/licenses/LICENSE-2.0)
+![img](https://img.shields.io/badge/GNU%20General%20Public%20License-V3.0-red)
 
 # 667788项目 动态爬虫+logo识别
 
