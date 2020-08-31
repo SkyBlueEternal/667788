@@ -7,16 +7,16 @@
 
 # 目录结构：
 
-- 667788
+- 667788</br>
   baidu.png</br>
   main.py</br>
-  - api_lib
-    - chromedriver_linux64
-         chromedriver
-    - chromedriver_mac64
-         chromedriver
-    - chromedriver_win32
-         chromedriver.exe
+  - api_lib</br>
+    - chromedriver_linux64</br>
+         chromedriver</br>
+    - chromedriver_mac64</br>
+         chromedriver</br>
+    - chromedriver_win32</br>
+         chromedriver.exe</br>
   - py_lib</br>
       dynamic_crawler.py</br>
       env_settings.py</br>
