@@ -8,6 +8,8 @@
 # 目录结构：
 
 - 667788
+  baidu.png</br>
+  main.py</br>
   - api_lib
     - chromedriver_linux64
          chromedriver
@@ -20,9 +22,7 @@
       env_settings.py</br>
       logo_recognition.py</br>
       random_str.py</br>
-  baidu.png</br>
-  zhongshiyou.png</br>
-  main.py</br>
+
 
 # 环境搭建
 
