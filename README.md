@@ -1,4 +1,4 @@
-![License](GNU General Public License v3.0):(https://github.com/SkyBlueEternal/667788/blob/master/LICENSE)
+[![License](https://img.shields.io/static/v1?label=<LABEL>&message=GNU General Public License v3.0&color=red)](https://www.apache.org/licenses/LICENSE-2.0)
 
 # 667788项目 动态爬虫+logo识别
 
